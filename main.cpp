@@ -89,6 +89,7 @@ int main( void )
 	printf("%c\n", moji);
 
 	printf("str test\n");
+	printf("create git ie branch\n");
 
 	rewind(stdin);
 	_getch();
