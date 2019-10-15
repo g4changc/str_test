@@ -88,6 +88,8 @@ int main( void )
 	moji = tolower('T');
 	printf("%c\n", moji);
 
+	printf("str test\n");
+
 	rewind(stdin);
 	_getch();
 
