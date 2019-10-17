@@ -90,6 +90,7 @@ int main( void )
 
 	printf("str test\n");
 	printf("create git ie branch\n");
+	printf("create chrome branch\n");
 
 	rewind(stdin);
 	_getch();
